@@ -1,0 +1,23 @@
+{
+  "welcome": "مرحباً",
+  "menu_loaded": "تم تحميل القائمة بنجاح",
+  "item_added_to_cart": "تمت إضافة العنصر إلى السلة",
+  "item_removed_from_cart": "تمت إزالة العنصر من السلة",
+  "cart_cleared": "تم إفراغ السلة",
+  "cart_updated": "تم تحديث السلة",
+  "cart_loaded": "تم تحميل السلة بنجاح",
+  "order_placed": "تم تقديم الطلب بنجاح",
+  "order_cancelled": "تم إلغاء الطلب",
+  "orders_loaded": "تم تحميل الطلبات بنجاح",
+  "order_status_updated": "تم تحديث حالة الطلب",
+  "payment_processed": "تمت معالجة الدفع بنجاح",
+  "payment_simulated": "تمت محاكاة الدفع بنجاح",
+  "cash_on_delivery": "تم اختيار الدفع عند الاستلام",
+  "restaurant_created": "تم إنشاء المطعم بنجاح",
+  "restaurant_updated": "تم تحديث المطعم بنجاح",
+  "restaurant_deleted": "تم حذف المطعم بنجاح",
+  "menu_item_added": "تمت إضافة عنصر القائمة بنجاح",
+  "menu_item_updated": "تم تحديث عنصر القائمة بنجاح",
+  "menu_item_deleted": "تم حذف عنصر القائمة بنجاح",
+  "all_orders_loaded": "تم تحميل جميع الطلبات بنجاح"
+}

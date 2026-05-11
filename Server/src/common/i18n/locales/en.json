@@ -1,0 +1,23 @@
+{
+  "welcome": "Welcome",
+  "menu_loaded": "Menu loaded successfully",
+  "item_added_to_cart": "Item added to cart",
+  "item_removed_from_cart": "Item removed from cart",
+  "cart_cleared": "Cart cleared",
+  "cart_updated": "Cart updated",
+  "cart_loaded": "Cart loaded successfully",
+  "order_placed": "Order placed successfully",
+  "order_cancelled": "Order cancelled",
+  "orders_loaded": "Orders loaded successfully",
+  "order_status_updated": "Order status updated",
+  "payment_processed": "Payment processed successfully",
+  "payment_simulated": "Payment simulated successfully",
+  "cash_on_delivery": "Cash on Delivery selected",
+  "restaurant_created": "Restaurant created successfully",
+  "restaurant_updated": "Restaurant updated successfully",
+  "restaurant_deleted": "Restaurant deleted successfully",
+  "menu_item_added": "Menu item added successfully",
+  "menu_item_updated": "Menu item updated successfully",
+  "menu_item_deleted": "Menu item deleted successfully",
+  "all_orders_loaded": "All orders loaded successfully"
+}
