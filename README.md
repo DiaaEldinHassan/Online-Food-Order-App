@@ -68,8 +68,8 @@ A full-stack online food ordering platform built with **React 19**, **Express 5*
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/foodorder.git
-cd foodorder
+git clone https://github.com/DiaaEldinHassan/Online-Food-Order-App.git
+cd Online-Food-Order-App
 ```
 
 ### 2. Backend setup
